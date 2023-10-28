@@ -11,8 +11,8 @@ global.owner = [
   ['529934556133 ', '👑 MICH BOT - Creador 👑', true],
   ['525634990524', '💫 MICH BOT - Collaborator 1 💫', true],
 
-global.suittag = ['529934556133'];
-global.prems = ['529934556133'];
+global.suittag = ['529934556133']
+global.prems = ['529934556133']
 
 global.packname = '(☞ﾟ∀ﾟ)☞';
 global.author = '💖𝐌𝐈𝐂𝐇 𝐁𝐎𝐓💖';

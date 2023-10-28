@@ -14,22 +14,22 @@ global.owner = [
 global.suittag = ['529934556133']
 global.prems = ['529934556133']
 
-global.packname = '(☞ﾟ∀ﾟ)☞';
-global.author = '💖𝐌𝐈𝐂𝐇 𝐁𝐎𝐓💖';
-global.wm = '💖𝐌𝐈𝐂𝐇 𝐁𝐎𝐓💖';
-global.titulowm = '🤖 ＴＨＥ Ｍich － ＢＯＴ 🤖';
+global.packname = '(☞ﾟ∀ﾟ)☞'
+global.author = '💖𝐌𝐈𝐂𝐇 𝐁𝐎𝐓💖'
+global.wm = '💖𝐌𝐈𝐂𝐇 𝐁𝐎𝐓💖'
+global.titulowm = '🤖 ＴＨＥ Ｍich － ＢＯＴ 🤖'
 global.titulowm2 = `乂  𝚃 𝙷 𝙴  MICH  -  𝙱 𝙾 𝚃  乂`
-global.igfg = '★𝚃𝚑𝚎 𝙼ich - 𝙱𝚘𝚝★';
-global.wait = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*';
+global.igfg = '★𝚃𝚑𝚎 𝙼ich - 𝙱𝚘𝚝★'
+global.wait = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*'
 
-global.imagen1 = fs.readFileSync('./Menu2.jpg');
-global.imagen2 = fs.readFileSync('./src/nuevobot.jpg');
-global.imagen3 = fs.readFileSync('./src/Pre Bot Publi.png');
-global.imagen4 = fs.readFileSync('./Menu.png');
-global.imagen5 = fs.readFileSync('./src/+18.jpg');
-global.imagen6 = fs.readFileSync('./Menu3.png');
+global.imagen1 = fs.readFileSync('./Menu2.jpg')
+global.imagen2 = fs.readFileSync('./src/nuevobot.jpg')
+global.imagen3 = fs.readFileSync('./src/Pre Bot Publi.png')
+global.imagen4 = fs.readFileSync('./Menu.png')
+global.imagen5 = fs.readFileSync('./src/+18.jpg')
+global.imagen6 = fs.readFileSync('./Menu3.png')
 
-global.mods = [];
+global.mods = []
 
 //* *******Tiempo***************
 global.d = new Date(new Date + 3600000);
